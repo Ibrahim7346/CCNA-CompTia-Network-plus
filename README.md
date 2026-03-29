@@ -30,8 +30,8 @@ Below are some of the labs I built using **Cisco Packet Tracer**:
 
 ## 🏅 Badges & Achievements
 
-![Badge 1](Badges/badge1.png)
-![Badge 2](Badges/badge2.png)
+![Badge 1](1774788295308.jpg)
+![Badge 2](1774788272963.jpg)
 
 ---
 
