@@ -22,7 +22,7 @@ Below are some of the labs I built using **Cisco Packet Tracer**:
 ![Lab 1](IMG-20260405-WA0007.jpg)
 
 ### 🌐 Routing & Switching Practice
-![Lab 2](Packet-Tracer-Labs/lab2.png)
+![Lab 2](IMG-20260405-WA0006.jpg)
 
 > These labs demonstrate my understanding of IP addressing, routing, switching, and network configuration.
 
