@@ -19,7 +19,7 @@ These courses helped me understand how networks are designed, secured, and maint
 Below are some of the labs I built using **Cisco Packet Tracer**:
 
 ### 🔧 Network Topology Example
-![Lab 1](packet tracer ospf lab.png)
+![Lab 1](IMG-20260405-WA0007.jpg)
 
 ### 🌐 Routing & Switching Practice
 ![Lab 2](Packet-Tracer-Labs/lab2.png)
